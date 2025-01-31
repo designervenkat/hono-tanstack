@@ -16,12 +16,6 @@ Utilises the following:
 
 ![BetterNews Screen Shot](./preview.png)
 
-## Tutorial
-
-[![YouTube Video](https://img.youtube.com/vi/0CVFOg5arok/0.jpg)](https://youtu.be/0CVFOg5arok)
-
-This repo is the code that was written in the following YouTube video. The YouTube chapters match the commits in this repo, so you can easily see what changed when. If any changes have been made since the YouTube video, check the `tutorial` branch for the exact one used in the video.
-
 ## Usage
 
 To use this project, you will first need to have a running postgres server. You can set this up with Docker. Instructions can be found in the YouTube video above.
