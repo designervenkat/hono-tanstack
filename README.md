@@ -1,6 +1,6 @@
 # BetterNews - Fullstack Hacker News Clone
 
-This repo is an implementation of some of the core features of HackerNews. It is developed in the YouTube video linked below. It includes post, comments, nested comments, authentication and deployment with Docker as well.
+This repo is an implementation of some of the core features of HackerNews. 
 
 Utilises the following:
 
