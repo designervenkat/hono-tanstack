@@ -18,7 +18,7 @@ Utilises the following:
 
 ## Usage
 
-To use this project, you will first need to have a running postgres server. You can set this up with Docker. Instructions can be found in the YouTube video above.
+To use this project, you will first need to have a running postgres server. You can set this up with Docker. 
 
 ### Development
 
